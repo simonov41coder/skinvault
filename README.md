@@ -1,4 +1,4 @@
-### SkinVault
+# SkinVault
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen)]()
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-orange)]()
