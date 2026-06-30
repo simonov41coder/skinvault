@@ -1,4 +1,4 @@
-SkinVault
+### SkinVault
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen)]()
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-orange)]()
@@ -11,21 +11,21 @@ SkinVault
 
 A simple client-side Fabric mod for managing and switching Minecraft skins with ease.
 
-✨ Features
+## ✨ Features
 
 - Save multiple skins
 - Quickly switch between saved skins
 - Simple and lightweight UI
 - Client-side only
 
-📦 Installation
+## 📦 Installation
 
 1. Install Fabric Loader.
 2. Install Fabric API.
 3. Download the latest SkinVault release.
 4. Put the JAR into your "mods" folder.
 
-🔨 Building
+## 🔨 Building
 
 ./gradlew build
 
@@ -33,6 +33,10 @@ The built JAR will be available in:
 
 build/libs/
 
-📄 License
+## 📄 License
 
 This project is licensed under the Apache License 2.0.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=simonov41coder/skinvault&type=date&legend=top-left)](https://www.star-history.com/?repos=simonov41coder%2Fskinvault&type=date&legend=top-left)
