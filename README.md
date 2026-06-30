@@ -48,8 +48,7 @@ SkinVault requires the following libraries to run:
 * Clicking on any skin name button will automatically run the background integration command:
   ```text
   /skin url <your-saved-url>
-
-```
+  ```
  * Use the **Edit** (pencil) or **Delete** (trash) icons to modify your library anytime. All changes autosave instantly.
 ## 🔨 Building From Source
 If you prefer to compile the mod yourself, clone the repository and build via the Gradle wrapper:
@@ -57,15 +56,14 @@ If you prefer to compile the mod yourself, clone the repository and build via th
 git clone [https://github.com/simonov41coder/skinvault.git](https://github.com/simonov41coder/skinvault.git)
 cd skinvault
 ./gradlew build
-
 ```
 Once completed, your freshly compiled build will be generated in:
 ```text
-build/libs/
-
+build/libs
 ```
 ## 📄 License
 This project is open-source software licensed under the **Apache License 2.0**. See the LICENSE file for more information.
+
 ## 📈 Star History
-Star History Chart
+[![Star History Chart](https://api.star-history.com/chart?repos=simonov41coder/skinvault&type=date&legend=top-left)](https://www.star-history.com/?repos=simonov41coder%2Fskinvault&type=date&legend=top-left)
 ```
