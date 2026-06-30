@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "skinvault",
+  "version": "${version}",
+  "name": "SkinVault",
+  "description": "Client-side skin manager mod.",
+  "authors": [
+    "simonov"
+  ],
+  "icon": "icon.png",
+  "contact": {},
+  "license": "Apache-2.0",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      {
+        "value": "com.simonov.skinvault.SkinVaultClient",
+        "adapter": "kotlin"
+      }
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*",
+    "fabric-language-kotlin": ">"
+    ""owo": ">=0.13.0"
+  }
+}
